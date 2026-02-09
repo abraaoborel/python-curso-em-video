@@ -1,2 +1,2 @@
-# Arquivado — estudos iniciais em Python realizados antes de focar em Linux e redes.
+# Arquivado — estudos iniciais realizados em Python antes de focar em Linux e redes.
  
